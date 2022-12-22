@@ -1,0 +1,21 @@
+_id: req_8a243d61977649228838a42554e5a5a9
+type: Request
+parentId: fld_b6f01defd497449785b60f8df5f6d164
+modified: 1671674646564
+created: 1671671277856
+url: http://localhost:3333/users
+name: List Users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671671277856
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

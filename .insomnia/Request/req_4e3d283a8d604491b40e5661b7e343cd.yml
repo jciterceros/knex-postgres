@@ -1,0 +1,29 @@
+_id: req_4e3d283a8d604491b40e5661b7e343cd
+type: Request
+parentId: fld_d1b8213690c8408b8410e5cc5bc56da0
+modified: 1671680094119
+created: 1671677850390
+url: http://localhost:3333/projects
+name: Create Project
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"user_id": 2,
+      "tittle": "Projeto 4"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671671034949
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
