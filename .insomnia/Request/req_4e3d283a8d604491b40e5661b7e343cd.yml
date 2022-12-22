@@ -1,7 +1,7 @@
 _id: req_4e3d283a8d604491b40e5661b7e343cd
 type: Request
 parentId: fld_d1b8213690c8408b8410e5cc5bc56da0
-modified: 1671680094119
+modified: 1671683124147
 created: 1671677850390
 url: http://localhost:3333/projects
 name: Create Project
@@ -11,8 +11,8 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"user_id": 2,
-      "tittle": "Projeto 4"
+    	"user_id": 1,
+      "tittle": "Projeto 5"
     }
 parameters: []
 headers:
