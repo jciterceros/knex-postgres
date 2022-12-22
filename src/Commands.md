@@ -31,3 +31,5 @@ npx knex seed:make 002_projects
 
 // para nao deletar os usuarios já cadastrados
 npx knex seed:run --specific 002_projects.js
+
+https://www.youtube.com/watch?v=U7GjS3FuSkA&t=2410s&ab_channel=Rocketseat
