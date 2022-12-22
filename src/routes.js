@@ -6,7 +6,7 @@ const UserController = require("./controllers/UserController");
 const ProjectController = require("./controllers/ProjectController");
 
 routes.get("/", (request, response) => {
-    return response.json({ message: "Hello World Knex" });
+  return response.json({ message: "Hello World Knex" });
 });
 
 routes.get("/users", UserController.index);
@@ -16,5 +16,7 @@ routes.delete("/users/:id", UserController.delete);
 
 routes.get("/projects", ProjectController.index);
 routes.post("/projects", ProjectController.create);
+routes.put("/projects/:id", ProjectController.update);
+routes.delete("/projects/:id", ProjectController.delete);
 
 module.exports = routes;

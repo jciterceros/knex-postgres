@@ -1,0 +1,28 @@
+_id: req_88a822552665414fa26e4ed88ca9585c
+type: Request
+parentId: fld_b6f01defd497449785b60f8df5f6d164
+modified: 1671674193960
+created: 1671674079991
+url: http://localhost:3333/users/4
+name: Update User
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username":"usuario4"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671671156402.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

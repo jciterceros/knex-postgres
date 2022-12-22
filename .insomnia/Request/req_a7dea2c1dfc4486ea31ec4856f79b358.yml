@@ -1,0 +1,21 @@
+_id: req_a7dea2c1dfc4486ea31ec4856f79b358
+type: Request
+parentId: fld_d1b8213690c8408b8410e5cc5bc56da0
+modified: 1671679470842
+created: 1671677850382
+url: http://localhost:3333/projects
+name: List Projects
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671671277856
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

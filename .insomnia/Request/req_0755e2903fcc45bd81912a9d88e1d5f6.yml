@@ -1,0 +1,29 @@
+_id: req_0755e2903fcc45bd81912a9d88e1d5f6
+type: Request
+parentId: fld_b6f01defd497449785b60f8df5f6d164
+modified: 1671677983426
+created: 1671673149000
+url: http://localhost:3333/users
+name: Create User
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username":"usuario7",
+    	"email":"email@email.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1671671034949
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
